@@ -26,7 +26,7 @@ responsividade adquiridos no bootcamp Dio-Santander FullStack
 git clone https://github.com/Jeffersondecastro94/login-instagram
 
 # entrar na pasta do projeto 
-cd clone-instagram
+cd <pasta do projeto>
 
 # executar o projeto no terminal 
  start index.html

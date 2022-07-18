@@ -23,7 +23,7 @@ responsividade adquiridos no bootcamp Dio-Santander FullStack
 
 ```bash
 # clonar repositório
-git clone https://github.com/Jeffersondecastro94/Clone--Tela-login-Instagram
+git clone https://github.com/Jeffersondecastro94/login-instagram
 
 # entrar na pasta do projeto 
 cd clone-instagram
